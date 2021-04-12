@@ -1,0 +1,13 @@
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.exe
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.deps.json
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.runtimeconfig.json
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.runtimeconfig.dev.json
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.dll
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.pdb
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.csprojAssemblyReference.cache
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.AssemblyInfoInputs.cache
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.AssemblyInfo.cs
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.csproj.CoreCompileInputs.cache
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.dll
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.pdb
+C:\Users\ajaafar2\dev\TDDPractice\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.genruntimeconfig.cache
